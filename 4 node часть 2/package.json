@@ -1,0 +1,11 @@
+{
+    "scripts": {
+      "start": "node server.js",
+      "dev": "nodemon server.js"
+    },
+    "devDependencies": {
+      "lodash": "^4.17.21",
+      "nodemon": "^2.0.15"
+    }
+  }
+  
